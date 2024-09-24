@@ -33,17 +33,17 @@ export default function handler(
     location:{ 
       city:"Jakarta", 
       country:"Indonesia", 
-      street:"Jl. Jalan"
+      street:"Jl.Jalan"
     },
     phone:{
-      office:"021 88989",
-      personal:"0813 484994 999794", 
+      office:"02168867",
+      personal:"08515567861", 
       suport: null
     },
     social: {
-      email:"myname@mail.com",
-      skype:"@myname",
-      telegram:"@myname"
+      email:"shiddiq@gmail.com",
+      skype:"@shiddiq",
+      telegram:"@shiddiq"
     }
   }
   res.status(200).json(response)
