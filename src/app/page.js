@@ -6,7 +6,7 @@ export default function Home() {
         <h1 className=" text-6xl font-sans md:Apple Color Emoji text-yellow-600/100 " > Saya Muhammad Shiddiq</h1>
         <h1 className=" text-6xl font-sans md:Apple Color Emoji" >Android  Developer</h1>
         <div>
-          <button className=" mt-20 rounded-lg bg-red-500 w-48 min-h-12 text-white" >Get Started</button>
+          <button className=" mt-20 rounded-lg bg-blue-500 w-48 min-h-12 text-white" >Selengkapnya</button>
         </div>
       </div>
       
